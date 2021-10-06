@@ -1,6 +1,0 @@
-#About the Kaggle challenge
-info: to run in the pycharm console
-lux-ai-2021 main.py main.py --python=python3 --out=replay.json
-
--The game lastst 360 days
-
